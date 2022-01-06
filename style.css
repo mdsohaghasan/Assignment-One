@@ -16,8 +16,12 @@ body {
     width: 50%;
     margin: 5%;
     padding-left: 5%;
+}
+
+.header h1 {
+    border-left: 5px solid blue;
+    padding-left: 10px;
     
-  
 }
 .header img{
     width: 80%;
@@ -65,10 +69,19 @@ body {
 }
 .aboutbox {
     margin: 10px;
-    padding: 30px;
-    background-color: blue;
+    padding: 30px;  
     border-radius: 20px;
 }   
+
+#Mission {
+    background-color: blue;
+}
+#Vission {
+    background-color: rgb(233, 78, 233);
+}
+#Goals {
+    background-color: rgb(255, 148, 9);
+}
 
 .aboutbox img {
     width: 150px;
